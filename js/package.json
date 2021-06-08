@@ -33,9 +33,9 @@
   },
   "dependencies": {
     "@jupyter-widgets/base": "^3.0.0",
-    "@jupyter-widgets/controls": "^2.0.0",
-    "@jupyterlab/application": "^2.1.0",
-    "@jupyterlab/apputils": "^2.1.0",
+    "@jupyter-widgets/controls": "^3.0.0",
+    "@jupyterlab/application": "^3.0.11",
+    "@jupyterlab/apputils": "^3.0.9",
     "bufferutil": "^4.0.1",
     "jquery": "^3.4.1",
     "lodash": "^4.17.4",
